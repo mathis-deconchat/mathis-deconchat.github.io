@@ -99,10 +99,10 @@ StrapiServerUrl = "http://localhost:1325/api"
 
     [params.flexsearch] # Parameters for FlexSearch
         enabled             = true
-        # tokenize            = "full"
-        # optimize            = true
-        # cache               = 100
-        # minQueryChar        = 3 # default is 0 (disabled)
+        tokenize            = "full"
+        optimize            = true
+        cache               = 100
+        minQueryChar        = 3 # default is 0 (disabled)
         # maxResult           = 5 # default is 5
         # searchSectionsIndex = []
 

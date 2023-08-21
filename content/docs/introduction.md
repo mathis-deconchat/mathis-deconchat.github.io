@@ -31,3 +31,17 @@ There will be different types of content :
 - **Guides** : How to do something, step by step, with explanations and examples
 - **Snippets** : Small pieces of code, or configuration, that I want to keep track of
 - **Reviews** : Reviews of tools, tech or anything else that I use and want to share my opinion on after researching on it
+
+
+# What I'm trying to learn ? 
+First of all, I'm trying to learn how to write. I'm not a native english speaker, and I'm not used to write a lot. So I'm trying to improve my writing skills, and my english skills at the same time. Even if IA helps me a lot, I'm aiming to write most of the content only by myself. <br>
+<br>
+
+## Technologies 
+I have different techs I want to improve my skills in : 
+1. GoLang, mainly for creating CLI tools and using it for microservices
+2. Security, continuing to exercice on root.me and start to use HTB
+3. Monioring, I already have a steady experience with Grafana monitoring stack, but I want to get better at it
+4. eBPF, undertsanding how it works and how to use it with Kubernetes
+
+And I also want to get my CKA and DCA during 2023. 

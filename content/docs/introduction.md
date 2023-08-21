@@ -6,7 +6,7 @@ date: "2023-08-21T08:15:55+02:00"
 lastmod: "2023-08-21T08:15:55+02:00"
 draft: false
 toc: true
-weight: 999
+weight: 1
 tags: ["sp", "Introduction"]
 
 ---
@@ -19,6 +19,13 @@ This site has 3 main goals :
 
 In no way, all informations on this site are meant to be taken as the absolute truth. I am not an absolute expert in any of the fields I talk about, and I am still learning. I am just sharing what I know and what I learn along the way.
 {{< alert context="info" text="If you find anything incorrect, misleading or uncomplete, please open a GitHub issue " />}}
+
+Also, I'll will not state the obvious; for example, I won't explain what 
+```sql 
+SELECT * FROM table
+```
+does. I will assume you already know the basics of what you're doing.
+But I will integrate informations easily available on internet. The goal of this site is to be a centralized place for me, and for you, to find informations about a specific topic, and avois the 100's tabs opened to find how to create a VM with Terraform 😉.
 
 ## Context
 I am a 25 years old French (yes) student, completing my master degree this year. I've been in a work-study path for the last 6 years. I started as a System Administrator on Windows, automating (everything) with powershell ❤️.<br> And then moved to a software developper role, working with **Angular**, **Graphql**, **Nodejs** and **"Nestjs** on multiple projects. <br> <br>Then I've been doing more DevOps tasks, working with **Kubernetes**, **Docker**, **Terraform**, **Kong**, **Keycloak**, **OpenStack** and many more. 

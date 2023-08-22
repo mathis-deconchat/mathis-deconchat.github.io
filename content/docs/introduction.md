@@ -27,6 +27,8 @@ SELECT * FROM table
 does. I will assume you already know the basics of what you're doing.
 But I will integrate informations easily available on internet. The goal of this site is to be a centralized place for me, and for you, to find informations about a specific topic, and avois the 100's tabs opened to find how to create a VM with Terraform 😉.
 
+I'll also present subjects I know nothing about, and try ro learn along the way.
+
 ## Context
 I am a 25 years old French (yes) student, completing my master degree this year. I've been in a work-study path for the last 6 years. I started as a System Administrator on Windows, automating (everything) with powershell ❤️.<br> And then moved to a software developper role, working with **Angular**, **Graphql**, **Nodejs** and **"Nestjs** on multiple projects. <br> <br>Then I've been doing more DevOps tasks, working with **Kubernetes**, **Docker**, **Terraform**, **Kong**, **Keycloak**, **OpenStack** and many more. 
 

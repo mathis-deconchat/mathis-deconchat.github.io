@@ -51,7 +51,7 @@ But  before, let make our life easier and create an alias for teh terraform comm
 ```bash
 alias tf="terraform"
 ```
-Ans then reload your shell with `source ~/.bashrc` or `source ~/.zshrc`
+And then reload your shell with `source ~/.bashrc` or `source ~/.zshrc`
 
 ### Init and Providers
 

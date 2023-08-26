@@ -1,0 +1,3 @@
+[submodule "lotusdoc"]
+	path = themes/lotusdoc
+	url = git@github.com:mathis-deconchat/lotusdocs.git
